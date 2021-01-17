@@ -2,7 +2,11 @@
 
 ## I'm data scientist, and Data Engineer
 - I'm currently working on a Stripe's API for [R](https://github.com/carloseguevara/stripeGet) and Python
-- I'm currently learning about 
+- I'm currently learning about patterns and good practices for deployment backend systems.
+- This year 2021 I want to launch my blog about Data World, to help other people get started.
+
+### Connect with me:
+
 <!--
 **carloseguevara/carloseguevara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +21,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carloseguevara)](https://github.com/anuraghazra/github-readme-stats)
