@@ -44,15 +44,16 @@
 
 <br/>
 <br/>
+<br/>
 
 <!-- Google Cloud -->
-<img align="left" alt="R" height="26px" src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/cloud/images/cloud-logo.svg" />
+<img align="left" alt="Google Cloud" height="26px" src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/cloud/images/cloud-logo.svg" />
 
 <!-- Github -->
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
 
 <!-- Docker -->
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+<img align="left" alt="Docker" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 
 <!-- Terminal -->
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -80,7 +81,6 @@
 <br>
 
 <!--
-**carloseguevara/carloseguevara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -106,9 +106,10 @@ Here are some ideas to get you started:
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ## GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carloseguevara&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseguevara&theme=radical&hide=html,tex,css)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
 ## Top Lenguages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseguevara&layout=compact&theme=radical&hide=html,tex,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseguevara&layout=compact&theme=radical&hide=html,tex,css)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 [instagram]: https://instagram.com/carloseguevara
