@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carloseguevara&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carloseguevara&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseguevara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
