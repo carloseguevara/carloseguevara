@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use Stripe’s API for download information?](https://medium.com/@carloseguevarap/how-to-use-stripes-api-for-download-information-d72368a3314a?source=rss-298599704ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 
