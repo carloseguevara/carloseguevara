@@ -14,7 +14,7 @@
 <img align="left" alt="R" height="26px" src="https://www.r-project.org/logo/Rlogo.svg"/>
 
 <!-- R Studio -->
-<img align="left" alt="RStudio" height="26px" src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg"/>
+<img align="left" alt="TidyVerse" height="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidyverse.svg"/>
 
 <!-- Python -->
 <img align="left" alt="Python" height="26px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" />
@@ -26,7 +26,9 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 
 <!-- Scala -->
-<img align="left" alt="Scala" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" />
+<!-- <img align="left" alt="Scala" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" /> -->
+
+<img align="left" alt="Scala" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Scala_logo.png" /> 
 
 <!-- PostgreSQL -->
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
@@ -40,6 +42,7 @@
 <!-- Flutter -->
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
 
+<br/>
 <br/>
 
 <!-- Google Cloud -->
