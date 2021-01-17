@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## I'm data scientist, and Data Engineer
+- I'm currently working on a Stripe's API for [R](https://github.com/carloseguevara/stripeGet) and Python
+- I'm currently learning about 
 <!--
 **carloseguevara/carloseguevara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
