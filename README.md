@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ## GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carloseguevara&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseguevara&theme=radical&hide=html,tex,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseguevara&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
 ## Top Lenguages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseguevara&layout=compact&theme=radical&hide=html,tex,css)](https://github.com/anuraghazra/github-readme-stats) -->
